@@ -1,0 +1,10 @@
+In File_Management folder You will see total 8-files.
+
+1) File_management.java will be your main file wwhich is contain main function of your code
+
+2) Create Project in either Netbeans or eclipse.
+
+3) Create class File and name it to File_management.
+do the same procedure for the rest of the files.
+
+4) run the project.
